@@ -3,7 +3,7 @@
 
 ## [1] **EasyRAG**
 
-*Published Date: 15 Oct 2024*
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zhangchi Feng, Dongdong Kuang, Zhongyuan Wang, Zhijie Nie, Yaowei Zheng, Richong Zhang</i></sub>
 
@@ -59,7 +59,7 @@ This paper presents CoFE-RAG, a Comprehensive Full-chain Evaluation framework th
 
 ## [5] **RAG-based Spelling Correction**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 15 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Xuan Guo, Rohit Patki, Dante Everaert, Christopher Potts</i></sub>
 
@@ -70,7 +70,7 @@ This paper presents a RAG-based spelling correction approach for e-commerce appl
 
 ---
 
-## [6] **Multilingual RAG Benchmark**
+## [6] **Multilingual RAG**
 
 *Published Date: 17 Oct 2024*
 
@@ -83,7 +83,7 @@ This paper introduces MIRAGE-Bench, a standardized multilingual RAG benchmark fo
 
 ---
 
-## [7] **Assessing RAG Models for Health Chatbots**
+## [7] **HEALTH-PARIKSHA**
 
 *Published Date: 17 Oct 2024*
 
@@ -96,9 +96,9 @@ This paper assesses 24 LLMs on real-world data from Indian patients interacting 
 
 ---
 
-## [8] **Medical Multimodal RAG System**
+## [8] **MMed-RAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 16 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao </i></sub>
 
@@ -111,7 +111,7 @@ This paper introduces MMed-RAG, a versatile multimodal retrieval-augmented gener
 
 ## [9] **RuleRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 15 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo</i></sub>
 
@@ -124,7 +124,7 @@ This paper presents Rule-Guided RAG, introducing symbolic rules for in-context l
 
 ## [10] **ChunkRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 25 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Ishneet Sukhvinder Singh, Ritvik Aggarwal, Ibrahim Allahverdiyev, Muhammad Taha, Aslihan Akalin, Kevin Zhu, Sean O'Brien</i></sub>
 
@@ -136,9 +136,9 @@ This paper introduces ChunkRAG, a novel chunk filtering method for RAG systems. 
 
 ---
 
-## [11] **AutoRAG Framework**
+## [11] **AutoRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 28 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Dongkyu Kim, Byoungwook Kim, Donggeon Han, Matouš Eibich</i></sub>
 
@@ -151,7 +151,7 @@ This paper introduces AutoRAG, a framework that automatically identifies suitabl
 
 ## [12] **LONG²RAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 30 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zehan Qi, Rongwu Xu, Zhijiang Guo, Cunxiang Wang, Hao Zhang, Wei Xu</i></sub>
 
@@ -164,7 +164,7 @@ This paper introduces LONG²RAG, addressing the limitations of existing RAG benc
 
 ## [13] **LongRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 21 Jun 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Ziyan Jiang, Xueguang Ma, Wenhu Chen</i></sub>
 
@@ -177,7 +177,7 @@ This paper introduces LongRAG, a framework designed to address the imbalance bet
 
 ## [15] **PipeRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 8 Mar 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Wenqi Jiang, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, Tim Kraska</i></sub>
 
@@ -189,7 +189,7 @@ This paper presents PipeRAG, an algorithm-system co-design approach to reduce la
 
 ## [16] **SimRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 23 Oct 2024*
 
 This paper presents SimRAG, a self-training approach to adapt retrieval-augmented generation (RAG) systems to specialized domains like science and medicine. By fine-tuning large language models (LLMs) on domain-specific data and using synthetic question generation, SimRAG improves domain adaptation. Experiments across 11 datasets show that SimRAG outperforms baselines by 1.2%–8.6%.
 
@@ -199,7 +199,7 @@ This paper presents SimRAG, a self-training approach to adapt retrieval-augmente
 
 ## [17] **DRAGIN**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 15 Mar 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Weihang Su, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu</i></sub>
 
@@ -211,7 +211,7 @@ This paper presents DRAGIN, a dynamic retrieval-augmented generation (RAG) frame
 
 ## [18] **LightRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 8 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang</i></sub>
 
@@ -223,7 +223,7 @@ LightRAG introduces a novel dual-level retrieval system that integrates graph st
 
 ## [19] **Open-RAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 2 Oct 2024*
 
 <sub><i style="font-size: 1.3em; font-size: 1.3em; color: gray;">Authors: Shayekh Bin Islam, Md Asib Rahman, K S M Tozammel Hossain, Enamul Hoque, Shafiq Joty, Md Rizwan Parvez</i></sub>
 
@@ -235,7 +235,7 @@ Open-RAG enhances the reasoning capabilities of Retrieval-Augmented Generation (
 
 ## [20] **HybridRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 9 Aug 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Bhaskarjit Sarmah, Benika Hall, Rohan Rao, Sunil Patel, Stefano Pasquali, Dhagash Mehta</i></sub>
 
@@ -248,7 +248,7 @@ This paper introduces HybridRAG, a novel approach that combines Knowledge Graph-
 
 ## [21] **Self-RAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 17 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi</i></sub>
 
@@ -261,7 +261,7 @@ Self-RAG introduces a self-reflective framework for Retrieval-Augmented Generati
 
 ## [22] **MemoRAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 9 Sep 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Hongjin Qian, Peitian Zhang, Zheng Liu, Kelong Mao, Zhicheng Dou</i></sub>
 
@@ -274,7 +274,7 @@ MemoRAG introduces a novel retrieval-augmented generation paradigm empowered by 
 
 ## [23] **Block-Attention for Efficient RAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 14 Sep 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: East Sun, Yan Wang, Lan Tian</i></sub>
 
@@ -287,7 +287,7 @@ Block-Attention introduces an attention mechanism designed to reduce inference l
 
 ## [24] **CORAG**
 
-*Published Date: 14 Oct 2024*
+*Published Date: 1 Nov 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Ziting Wang, Haitao Yuan, Wei Dong, Gao Cong, Feifei Li</i></sub>
 

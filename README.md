@@ -38,4 +38,4 @@ We extend our gratitude to all contributors and users, as well as the researcher
 
 Here is the line plot showing the number of RAG benchmarks published each month:
 
-![Publication Line Plot](assets/publication_daywise_line_plot.png)
+![Publication Line Plot](assets\publication_daywise_line_plot.png)
