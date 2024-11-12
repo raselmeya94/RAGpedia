@@ -10,7 +10,7 @@ Welcome to **RAGpedia** – a comprehensive repository dedicated to **Retrieval-
 
 ## Key Contents
 
-- **RAG-LIST.md**: This file is the heart of RAGpedia, containing entries for all publicly available RAG tools and benchmarks. Each entry includes the name, description, discoverer, GitHub repository link, and paper link, allowing easy access to detailed information.
+- [**RAG-LIST.md**](RAG-LIST.md): This file is the heart of RAGpedia, containing entries for all publicly available RAG tools and benchmarks. Each entry includes the name, description, discoverer, GitHub repository link, and paper link, allowing easy access to detailed information.
 
 ## Contribution
 
