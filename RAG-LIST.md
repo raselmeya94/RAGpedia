@@ -3,6 +3,8 @@
 
 ## [1] **EasyRAG**
 
+*Published Date: 15 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zhangchi Feng, Dongdong Kuang, Zhongyuan Wang, Zhijie Nie, Yaowei Zheng, Richong Zhang</i></sub>
 
 This paper presents EasyRAG, a simple, lightweight, and efficient retrieval-augmented generation framework for automated network operations. EasyRAG has three advantages namely, accurate question answering, simple deployment and efficient inference. 
@@ -14,6 +16,8 @@ This paper presents EasyRAG, a simple, lightweight, and efficient retrieval-augm
 
 
 ## [2] **Vision-based RAG**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun</i></sub>
 
@@ -28,6 +32,9 @@ This paper presents VisRAG, which embeds documents using a Vision Language Model
 
 ## [3] **FunnelRAG**
 
+*Published Date: 14 Oct 2024*
+
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Xinping Zhao, Yan Zhong, Zetian Sun, Xinshuo Hu, Zhenyu Liu, Dongfang Li, Baotian Hu, Min Zhang</i></sub>
 
 This paper presents a progressive retrieval paradigm with coarse-to-fine granularity for RAG, termed FunnelRAG. FunnelRAG achieves comparable retrieval performance with a nearly 40% reduction in time overhead.
@@ -38,6 +45,8 @@ This paper presents a progressive retrieval paradigm with coarse-to-fine granula
 ---
 
 ## [4] **CoFE-RAG**
+
+*Published Date: 16 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Jintao Liu, Ruixue Ding, Linhao Zhang, Pengjun Xie, Fie Huang</i></sub>
 
@@ -50,6 +59,8 @@ This paper presents CoFE-RAG, a Comprehensive Full-chain Evaluation framework th
 
 ## [5] **RAG-based Spelling Correction**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Xuan Guo, Rohit Patki, Dante Everaert, Christopher Potts</i></sub>
 
 This paper presents a RAG-based spelling correction approach for e-commerce applications. Product names are retrieved from a catalog and integrated into the context used by a fine-tuned language model for contextual spelling correction, improving results over a standalone model.
@@ -60,6 +71,8 @@ This paper presents a RAG-based spelling correction approach for e-commerce appl
 ---
 
 ## [6] **Multilingual RAG Benchmark**
+
+*Published Date: 17 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Nandan Thakur, Suleman Kazi, Ge Luo, Jimmy Lin, Amin Ahmad</i></sub>
 
@@ -72,6 +85,8 @@ This paper introduces MIRAGE-Bench, a standardized multilingual RAG benchmark fo
 
 ## [7] **Assessing RAG Models for Health Chatbots**
 
+*Published Date: 17 Oct 2024*
+
  <sub><i style="font-size: 1.3em; color: gray;">Authors: Varun Gumma, Anandhita Raghunath, Mohit Jain, Sunayana Sitaram</i></sub>
 
 This paper assesses 24 LLMs on real-world data from Indian patients interacting with a medical chatbot in English and 4 Indic languages, showing significant performance variance, lower factual accuracy for Indic languages, and inconsistent performance of instruction-tuned models on Indic queries.
@@ -82,6 +97,8 @@ This paper assesses 24 LLMs on real-world data from Indian patients interacting 
 ---
 
 ## [8] **Medical Multimodal RAG System**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao </i></sub>
 
@@ -94,6 +111,8 @@ This paper introduces MMed-RAG, a versatile multimodal retrieval-augmented gener
 
 ## [9] **RuleRAG**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zhongwu Chen, Chengjin Xu, Dingmin Wang, Zhen Huang, Yong Dou, Jian Guo</i></sub>
 
 This paper presents Rule-Guided RAG, introducing symbolic rules for in-context learning to guide retrievers in retrieving logically related documents. RuleRAG-ICL improves retrieval and generation accuracy, scales with document quantity, and generalizes for untrained rules.
@@ -104,6 +123,8 @@ This paper presents Rule-Guided RAG, introducing symbolic rules for in-context l
 ---
 
 ## [10] **ChunkRAG**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Ishneet Sukhvinder Singh, Ritvik Aggarwal, Ibrahim Allahverdiyev, Muhammad Taha, Aslihan Akalin, Kevin Zhu, Sean O'Brien</i></sub>
 
@@ -117,6 +138,8 @@ This paper introduces ChunkRAG, a novel chunk filtering method for RAG systems. 
 
 ## [11] **AutoRAG Framework**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Dongkyu Kim, Byoungwook Kim, Donggeon Han, Matouš Eibich</i></sub>
 
 This paper introduces AutoRAG, a framework that automatically identifies suitable RAG modules for specific datasets. AutoRAG explores and approximates optimal RAG module combinations and is available as a Python library.
@@ -127,6 +150,8 @@ This paper introduces AutoRAG, a framework that automatically identifies suitabl
 ---
 
 ## [12] **LONG²RAG**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zehan Qi, Rongwu Xu, Zhijiang Guo, Cunxiang Wang, Hao Zhang, Wei Xu</i></sub>
 
@@ -139,6 +164,8 @@ This paper introduces LONG²RAG, addressing the limitations of existing RAG benc
 
 ## [13] **LongRAG**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Ziyan Jiang, Xueguang Ma, Wenhu Chen</i></sub>
 
 This paper introduces LongRAG, a framework designed to address the imbalance between retrievers and readers in traditional RAG systems. By processing the entire Wikipedia corpus into 4K-token units, LongRAG significantly reduces the number of retrievals, improving performance. It achieves strong retrieval results with fewer top units, outperforming fully-trained models on the NQ and HotpotQA datasets. LongRAG also excels on non-Wikipedia datasets like Qasper and MultiFieldQA-en, demonstrating its effectiveness with long-context LLMs.
@@ -150,6 +177,8 @@ This paper introduces LongRAG, a framework designed to address the imbalance bet
 
 ## [15] **PipeRAG**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Wenqi Jiang, Shuai Zhang, Boran Han, Jie Wang, Bernie Wang, Tim Kraska</i></sub>
 
 This paper presents PipeRAG, an algorithm-system co-design approach to reduce latency and improve generation quality in retrieval-augmented generation (RAG). PipeRAG integrates pipeline parallelism, flexible retrieval intervals, and a performance model to balance retrieval quality and latency. The system achieves up to 2.6× speedup in end-to-end generation latency while enhancing generation quality.
@@ -160,6 +189,8 @@ This paper presents PipeRAG, an algorithm-system co-design approach to reduce la
 
 ## [16] **SimRAG**
 
+*Published Date: 14 Oct 2024*
+
 This paper presents SimRAG, a self-training approach to adapt retrieval-augmented generation (RAG) systems to specialized domains like science and medicine. By fine-tuning large language models (LLMs) on domain-specific data and using synthetic question generation, SimRAG improves domain adaptation. Experiments across 11 datasets show that SimRAG outperforms baselines by 1.2%–8.6%.
 
 📄 Paper: [SimRAG](https://arxiv.org/abs/2410.17952) || 💻 Code: [Github Repository]()
@@ -167,6 +198,8 @@ This paper presents SimRAG, a self-training approach to adapt retrieval-augmente
 ---
 
 ## [17] **DRAGIN**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Weihang Su, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu</i></sub>
 
@@ -178,6 +211,8 @@ This paper presents DRAGIN, a dynamic retrieval-augmented generation (RAG) frame
 
 ## [18] **LightRAG**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang</i></sub>
 
 LightRAG introduces a novel dual-level retrieval system that integrates graph structures into the text indexing and retrieval processes. By combining low-level and high-level knowledge retrieval with efficient vector-based graph structures, LightRAG significantly improves both retrieval accuracy and response time while maintaining contextual relevance. Experimental validation shows substantial improvements over existing methods. LightRAG is open-source and available at the provided GitHub link.
@@ -188,6 +223,8 @@ LightRAG introduces a novel dual-level retrieval system that integrates graph st
 
 ## [19] **Open-RAG**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; font-size: 1.3em; color: gray;">Authors: Shayekh Bin Islam, Md Asib Rahman, K S M Tozammel Hossain, Enamul Hoque, Shafiq Joty, Md Rizwan Parvez</i></sub>
 
 Open-RAG enhances the reasoning capabilities of Retrieval-Augmented Generation (RAG) using open-source large language models (LLMs) by converting a dense LLM into a parameter-efficient sparse mixture of experts (MoE) model. This model can handle complex reasoning tasks, including multi-hop queries, and navigate misleading distractors. The framework integrates external knowledge efficiently for accurate, contextually relevant responses. Open-RAG also introduces a hybrid adaptive retrieval method to balance performance and inference speed. Experimental results show that Open-RAG outperforms existing models like ChatGPT and Self-RAG. The code and models are open-source.
@@ -196,7 +233,9 @@ Open-RAG enhances the reasoning capabilities of Retrieval-Augmented Generation (
 
 ---
 
-## [20] **HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction**
+## [20] **HybridRAG**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Bhaskarjit Sarmah, Benika Hall, Rohan Rao, Sunil Patel, Stefano Pasquali, Dhagash Mehta</i></sub>
 
@@ -207,7 +246,9 @@ This paper introduces HybridRAG, a novel approach that combines Knowledge Graph-
 
 ---
 
-## [21] **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**
+## [21] **Self-RAG**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi</i></sub>
 
@@ -218,7 +259,9 @@ Self-RAG introduces a self-reflective framework for Retrieval-Augmented Generati
 
 ---
 
-## [22] **MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery**
+## [22] **MemoRAG**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Hongjin Qian, Peitian Zhang, Zheng Liu, Kelong Mao, Zhicheng Dou</i></sub>
 
@@ -231,6 +274,8 @@ MemoRAG introduces a novel retrieval-augmented generation paradigm empowered by 
 
 ## [23] **Block-Attention for Efficient RAG**
 
+*Published Date: 14 Oct 2024*
+
 <sub><i style="font-size: 1.3em; color: gray;">Authors: East Sun, Yan Wang, Lan Tian</i></sub>
 
 Block-Attention introduces an attention mechanism designed to reduce inference latency and cost in Retrieval-Augmented Generation (RAG) scenarios. By dividing retrieved documents into discrete blocks and independently calculating key-value (KV) states for each block, Block-Attention reuses KV states from previously seen passages, significantly cutting down on computation overhead. The method reduces time to first token (TTFT) and floating point operations (FLOPs) by over 98%, making it highly efficient for RAG applications. Experiments show that Block-Attention achieves performance comparable to or superior to self-attention models.
@@ -240,7 +285,9 @@ Block-Attention introduces an attention mechanism designed to reduce inference l
 
 ---
 
-## [24] **CORAG: A Cost-Constrained Retrieval Optimization System for Retrieval-Augmented Generation**
+## [24] **CORAG**
+
+*Published Date: 14 Oct 2024*
 
 <sub><i style="font-size: 1.3em; color: gray;">Authors: Ziting Wang, Haitao Yuan, Wei Dong, Gao Cong, Feifei Li</i></sub>
 

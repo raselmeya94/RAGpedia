@@ -1,0 +1,41 @@
+name: Update Publication Line Plot
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 1 * *'  # Run monthly to update the graph
+
+jobs:
+  update-plot:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install Python and dependencies
+      run: |
+        sudo apt-get install python3-pip
+        pip install matplotlib pandas
+
+    - name: Parse RAG-LIST.md and generate line plot
+      run: |
+        # Parse the RAG-LIST.md file for publication dates
+        python3 generate_line_plot.py
+
+    - name: Commit the updated plot and README
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add assets/publication_line_plot.png
+        git commit -m "Update publication line plot"
+        git push
+
+    - name: Update README.md with new plot
+      run: |
+        sed -i 's|!\\[Publication Line Plot\\](.*)|!\\[Publication Line Plot\\](assets/publication_line_plot.png)|' README.md
+        git add README.md
+        git commit -m "Update README with new line plot"
+        git push

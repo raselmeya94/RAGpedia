@@ -33,3 +33,9 @@ RAGpedia is released under the [MIT License](LICENSE), allowing for free use, di
 ## Acknowledgments
 
 We extend our gratitude to all contributors and users, as well as the researchers and developers who create and share RAG models and benchmarks. Together, we can help make RAGpedia a resource that benefits the entire community.
+
+# RAG Benchmarks Overview
+
+Here is the line plot showing the number of RAG benchmarks published each month:
+
+![Publication Line Plot](assets/publication_daywise_line_plot.png)
