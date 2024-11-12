@@ -1,6 +1,4 @@
-About of RAG
-
-
+# List of RAG Tools and Benchmarks
 ---
 
 ## [1] **EasyRAG**
