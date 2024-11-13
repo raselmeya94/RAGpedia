@@ -297,3 +297,13 @@ CORAG introduces a novel cost-constrained retrieval optimization system to addre
 💻 Code: [Github Repository](https://github.com/XXXX)
 
 ---
+
+## [25] **Multi-Head RAG (MRAG)**
+
+*Published Date: 7 Jun 2024*
+
+<sub><i style="font-size: 1.3em; color: gray;">Authors: Maciej Besta, Ales Kubicek, Roman Niggli, Robert Gerstenberger, Lucas Weitzendorf, Mingyuan Chi, Patrick Iff, Joanna Gajda, Piotr Nyczyk, Jürgen Müller, Hubert Niewiadomski, Marcin Chrapek, Michał Podstawski, Torsten Hoefler</i></sub>
+
+Multi-Head RAG (MRAG) addresses the challenge of handling multi-aspect queries in Retrieval Augmented Generation by leveraging the multi-head attention layer in Transformers. Unlike standard RAG, which may struggle with retrieving documents that have diverse content, MRAG uses attention heads to capture various data aspects. This approach enables MRAG to fetch multi-aspect documents with greater accuracy, showing up to a 20% improvement in relevance over traditional RAG methods. MRAG is seamlessly compatible with existing RAG frameworks, benchmarking tools like RAGAS, and various data stores.
+
+📄 Paper: [Multi-Head RAG (MRAG)](https://arxiv.org/abs/2406.05085) || 💻 Code: [GitHub Repository](https://github.com/spcl/MRAG)
