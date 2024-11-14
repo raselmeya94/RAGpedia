@@ -12,6 +12,7 @@ This paper presents EasyRAG, a simple, lightweight, and efficient retrieval-augm
 📄 Paper: [EasyRAG](https://arxiv.org/abs/2410.10315)  || 
 💻 Code: [Github Repository](https://github.com/BUAADreamer/EasyRAG) 
 
+#### [More Information](./docs/EasyRAG/EasyRAG.md)
 ---
 
 
