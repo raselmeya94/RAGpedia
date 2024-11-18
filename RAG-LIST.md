@@ -308,3 +308,19 @@ CORAG introduces a novel cost-constrained retrieval optimization system to addre
 Multi-Head RAG (MRAG) addresses the challenge of handling multi-aspect queries in Retrieval Augmented Generation by leveraging the multi-head attention layer in Transformers. Unlike standard RAG, which may struggle with retrieving documents that have diverse content, MRAG uses attention heads to capture various data aspects. This approach enables MRAG to fetch multi-aspect documents with greater accuracy, showing up to a 20% improvement in relevance over traditional RAG methods. MRAG is seamlessly compatible with existing RAG frameworks, benchmarking tools like RAGAS, and various data stores.
 
 📄 Paper: [Multi-Head RAG (MRAG)](https://arxiv.org/abs/2406.05085) || 💻 Code: [GitHub Repository](https://github.com/spcl/MRAG)
+
+
+## [26] HtmlRAG
+
+*Published Date: 5 Nov 2024*
+
+<sub><i style="font-size: 1.3em; color: gray;">Authors: Jiejun Tan, Zhicheng Dou, Wen Wang, Mang Wang, Weipeng Chen, Ji-Rong Wen</i></sub>
+
+HtmlRAG redefines Retrieval-Augmented Generation (RAG) by leveraging the structural and semantic richness of HTML documents instead of plain text. Unlike conventional RAG systems that strip HTML to plain text, HtmlRAG retains critical features like headings and table structures to enhance knowledge representation.
+
+To overcome the challenges posed by HTML content, such as additional tags, JavaScript, and CSS, HtmlRAG employs innovative cleaning, compression, and a two-step block-tree-based pruning method to remove irrelevant blocks while preserving essential data. This approach demonstrates superior performance on six QA datasets, showcasing HTML’s potential in RAG systems.
+
+📄 Paper: [HtmlRAG](https://arxiv.org/abs/2411.02959) || 💻 Code: [GitHub Repository](https://github.com/plageon/HtmlRAG) || 🤗 Huggingface Model: [Hugging Face Collection](https://huggingface.co/collections/zstanjj/htmlrag-671f03af5c3da2e7b5371aa4)
+
+
+#### [More Information](./docs/EasyRAG/EasyRAG.md)
